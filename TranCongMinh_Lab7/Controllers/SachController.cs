@@ -27,6 +27,7 @@ namespace TranCongMinh_Lab7.Controllers
                     return NotFound();
                 }
                 return Ok(sach);
+            //xng tuan 6
         }
     }
 }
